@@ -1,0 +1,2 @@
+# Requires: meta-nothing
+# (Not available on PyPI)
